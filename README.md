@@ -41,15 +41,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Adobe homepagina 
-  <img src="readme-images/adobe_preview_home_1" width="375px" alt="omschrijving van de pagina">
+  <img src="/readme-images/adobe_preview_home_1" width="375px" alt="shows the homepage of adobe.nl with a 375px width">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Adobe homepagina part 2 
-  <img src="readme-images/adobe_preview_home_2" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/adobe_preview_home_2" width="375px" alt="shows the homepage of adobe.nl with a 375px width part 2">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   adobe homepagina footer
-  <img src="readme-images/adobe_preview_home_3" width="375px" alt="omschrijving van de pagina">
+  <img src="/readme-images/adobe_preview_home_3" width="375px" alt="shows the footer of the homepage of adobe.nl with a 375px width">
 
 </details>
 
