@@ -92,7 +92,7 @@ Oplossing
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  <img src="readme-images/adobe_preview_home_4" width="375px" alt="Een afbeelding van de mobiele website van adobe.com/nl in dark modus.">
+  <img src="readme-images/adobe_preview_home_4.png" width="375px" alt="Een afbeelding van de mobiele website van adobe.com/nl in dark modus.">
   Er zijn verschillinde soorten problemen met de menselijke oog. Adobe heeft
 gellukig nog een dark mode voor mensen die de felle kleuren niet optimaal aankunnen.
 
