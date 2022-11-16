@@ -64,27 +64,41 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  <img src="readme-images/testing.jpeg" width="375px" alt="Een afbeelding van Morpheus die mijn website controleert op de screenreader functie van apple">
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+Semantieke code en niet teveel onnodige content in de belangrijke plekken zoals headers en footers.
+
+Oplossing
+
+Iets minder content dichtbij elkaar gedrukt.
+kleinere menu en 
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Het gebruik van een muis en en toetsenbord is een goede combinatie van de website.
+  Meeste links zijn vrij duidelijk maar er zijn verschillende icons waar je niet zou kunnen weten dat je daar op zou kunnen klikken of drukken. Ook is de kleur van buttons wanneer ze in hun actieve status staan lijkt teveel op de normale kleur.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Oplossing
 
+De kleuren van sommige actieve statusses aanpassen en een actiefe status maken voor de somige icons.
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  parkinsons test hebben we gedaan met het gebruiken voor Adobe website en we hebben gemerkt dat het niet alleen vrij moeilijk is om uberhaupt je website of laptop te gebruiken.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Oplossing
+
+  Wat zou kunnen helpen is een voice-over systeem voor de website. en met voice commands die feedback terug kan geven.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  <img src="readme-images/adobe_preview_home_4" width="375px" alt="Een afbeelding van de mobiele website van adobe.com/nl in dark modus.">
+  Er zijn verschillinde soorten problemen met de menselijke oog. Adobe heeft
+gellukig nog een dark mode voor mensen die de felle kleuren niet optimaal aankunnen.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+  Oplossing
+Nog een oplossing zou zijn om een optie of actie knap te maken waarbij contrast en kleuren blinde gebruikers de kleuren aangepast zouden kunnen zien.
 
 </details>
 
